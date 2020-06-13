@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/drakedog/Desktop/staff_control/main.cpp
+C:/Users/drakedog/Desktop/staff_control/workerManager.cpp
+workerManager.h
+C:/Users/drakedog/Desktop/staff_control/workerManager.h
+
+C:/Users/drakedog/Desktop/staff_control/workerManager.h
 iostream
 -
 
