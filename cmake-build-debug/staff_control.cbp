@@ -83,6 +83,12 @@
 		<Unit filename="C:/Users/drakedog/Desktop/staff_control/main.cpp">
 			<Option target="staff_control"/>
 		</Unit>
+		<Unit filename="C:/Users/drakedog/Desktop/staff_control/workerManager.cpp">
+			<Option target="staff_control"/>
+		</Unit>
+		<Unit filename="C:/Users/drakedog/Desktop/staff_control/workerManager.h">
+			<Option target="staff_control"/>
+		</Unit>
 		<Unit filename="C:/Users/drakedog/Desktop/staff_control/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

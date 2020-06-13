@@ -149,6 +149,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\staff_control.dir\build.make CMakeFiles/staff_control.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+workerManager.obj: workerManager.cpp.obj
+
+.PHONY : workerManager.obj
+
+# target to build an object file
+workerManager.cpp.obj:
+	$(MAKE) -f CMakeFiles\staff_control.dir\build.make CMakeFiles/staff_control.dir/workerManager.cpp.obj
+.PHONY : workerManager.cpp.obj
+
+workerManager.i: workerManager.cpp.i
+
+.PHONY : workerManager.i
+
+# target to preprocess a source file
+workerManager.cpp.i:
+	$(MAKE) -f CMakeFiles\staff_control.dir\build.make CMakeFiles/staff_control.dir/workerManager.cpp.i
+.PHONY : workerManager.cpp.i
+
+workerManager.s: workerManager.cpp.s
+
+.PHONY : workerManager.s
+
+# target to generate assembly for a file
+workerManager.cpp.s:
+	$(MAKE) -f CMakeFiles\staff_control.dir\build.make CMakeFiles/staff_control.dir/workerManager.cpp.s
+.PHONY : workerManager.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +188,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... workerManager.obj
+	@echo ... workerManager.i
+	@echo ... workerManager.s
 .PHONY : help
 
 

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/staff_control.dir/main.cpp.obj"
+  "CMakeFiles/staff_control.dir/workerManager.cpp.obj"
   "libstaff_control.dll.a"
   "staff_control.exe"
   "staff_control.exe.manifest"
