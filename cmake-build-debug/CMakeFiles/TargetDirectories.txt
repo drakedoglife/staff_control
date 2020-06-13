@@ -1,0 +1,3 @@
+C:/Users/drakedog/Desktop/staff_control/cmake-build-debug/CMakeFiles/staff_control.dir
+C:/Users/drakedog/Desktop/staff_control/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/drakedog/Desktop/staff_control/cmake-build-debug/CMakeFiles/rebuild_cache.dir
