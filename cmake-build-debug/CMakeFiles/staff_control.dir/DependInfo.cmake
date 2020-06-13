@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/drakedog/Desktop/staff_control/main.cpp" "C:/Users/drakedog/Desktop/staff_control/cmake-build-debug/CMakeFiles/staff_control.dir/main.cpp.obj"
-  "C:/Users/drakedog/Desktop/staff_control/workerManager.cpp" "C:/Users/drakedog/Desktop/staff_control/cmake-build-debug/CMakeFiles/staff_control.dir/workerManager.cpp.obj"
+  "/Users/sakuram/Desktop/staff_control/main.cpp" "/Users/sakuram/Desktop/staff_control/cmake-build-debug/CMakeFiles/staff_control.dir/main.cpp.o"
+  "/Users/sakuram/Desktop/staff_control/workerManager.cpp" "/Users/sakuram/Desktop/staff_control/cmake-build-debug/CMakeFiles/staff_control.dir/workerManager.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

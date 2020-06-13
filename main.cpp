@@ -6,10 +6,37 @@
 using namespace std;
 
 int main() {
-    //ÊµÀı»¯¹ÜÀíÕß¶ÔÏó
+    //å®ä¾‹åŒ–ç®¡ç†è€…å¯¹è±¡
     WorkerManager wm;
-    //µ÷ÓÃ³ÉÔ±º¯Êı
-    wm.show_Menu();
+    int choice = 0;
+    while (true) {
+        wm.show_Menu();
+        cout << "è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š" << endl;
+        cin >> choice;
+
+        switch (choice) {
+            case 0://é€€å‡ºç³»ç»Ÿ
+                wm.exitSystem();
+                break;
+            case 1:
+                break;
+            case 2:
+                break;
+            case 3:
+                break;
+            case 4:
+                break;
+            case 5:
+                break;
+            case 6:
+                 break;
+            case 7:
+                break;
+            default:
+                system("cls");
+                break;
+        }
+    }
 
     return 0;
 }
